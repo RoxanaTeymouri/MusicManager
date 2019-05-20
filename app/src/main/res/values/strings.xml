@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MusicManager</string>
+    <string name="search">Search</string>
+    <string name="main">Main</string>
+    <string name="top">Top</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_artists_title">Top Artists</string>
+    <string name="my_archive_title">My Archive</string>
+    <string name="top_albums_title">Top Albums</string>
+    <string name="times">times</string>
+    <string name="plays">plays</string>
+    <string name="minutes">minutes.</string>
+    <string name="search_users_hint">Enter last.fm user name i.e. drrobbins</string>
+    <string name="empty_here">It\'s empty here, try another user name</string>
+    <string name="general_error">An error has happened, please try again</string>
+    <string name="please_enter_a_user_name">Please enter a user name</string>
+
+    <string name="EnterName"> hint_searchbox.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="activity_fragment">Activity Fragment</string>
+    <string name="album_fragment">Album Fragment</string>
+    <string name="artist_fragment">Artist Fragment</string>
+    <string name="please_enter_an_artist_name">Please enter an artist name</string>
+
+</resources>

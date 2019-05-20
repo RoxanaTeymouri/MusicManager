@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--TODO : Change ids and names-->
+    <item android:id="@+id/top"
+          android:icon="@drawable/ic_top"
+          android:title="@string/top"/>
+    <item android:id="@+id/main"
+          android:icon="@drawable/ic_song"
+          android:title="@string/main"/>
+    <item android:id="@+id/search"
+          android:icon="@drawable/ic_search"
+          android:title="@string/search"/>
+</menu>
